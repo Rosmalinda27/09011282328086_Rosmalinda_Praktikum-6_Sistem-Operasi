@@ -59,6 +59,7 @@ Kelas : SK3B
 <img src="https://github.com/user-attachments/assets/e23ff567-8bbc-4cde-b651-a5179b7e6960" width=500/>
 <br/>
 
+<img src="https://github.com/user-attachments/assets/ca7c9665-cdb1-4c5e-9500-1568b75ff451" width=500/>
 
 
 
