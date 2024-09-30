@@ -1,0 +1,1 @@
+# 09011282328086_Rosmalinda_Praktikum-6_Sistem-Operasi
