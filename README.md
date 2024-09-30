@@ -45,7 +45,22 @@ Kelas : SK3B
 <img src="https://github.com/user-attachments/assets/392fc819-6403-4e6e-8718-7a7c8b888d80" width=500/>
 <br/>
 
-## F.
+# Install PuTTY
+**1. Add Repository Universe** <br/>
+<img src="https://github.com/user-attachments/assets/e8cb3788-2bc1-4316-abc7-422a6cf6d442" width=500/>
+<br/>
+**2. Update after add Repository** <br/>
+<img src="https://github.com/user-attachments/assets/918d45c4-9a52-4c3b-9a18-1d22494394c5" width=500/>
+<br/>
+**3. Install PuTTY** <br/>
+<img src="https://github.com/user-attachments/assets/e83a42de-7005-428e-bdf5-0d724bfa0c9d" width=500/>
+<br/>
+**4. Show the version of PuTTY** <br/>
+<img src="https://github.com/user-attachments/assets/e23ff567-8bbc-4cde-b651-a5179b7e6960" width=500/>
+<br/>
+
+
+
 
 
 
